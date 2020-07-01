@@ -1,0 +1,11 @@
+h1 {
+  font-weight:normal;
+color:red;
+}
+.propImg{
+  width: 200px;
+  background-color: #ffa;
+  border: 6px solid orange;
+  margin: 3px;
+  padding: 2px;
+}
