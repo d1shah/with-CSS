@@ -1,32 +1,49 @@
 [
   {
     "Id": 1,
+    "SellRent":1,
     "Type": "House",
     "Name": "Birla House",
-    "Price": 179000
+    "Price": 179000,
+    "image":"prop-1"
   },
   {
     "Id": 2,
+    "SellRent": 1,
     "Type": "House",
     "Name": "Ambama House",
-    "Price": 279000
+    "Price": 279000,
+    "image": "prop-2"
   },
   {
     "Id": 3,
+    "SellRent": 1,
     "Type": "House",
     "Name": "good House",
-    "Price": 379000
+    "Price": 379000,
+    "image": "prop-3"
   },
   {
     "Id": 4,
+    "SellRent": 2,
     "Type": "House",
     "Name": "Better House",
-    "Price": 479000
+    "Price": 479000,
+    "image": "prop-4"
   },
   {
     "Id": 5,
+    "SellRent": 2,
     "Type": "House",
-    "Name": "Super House",
-    "Price": 579000
+    "Name": "Super Zupdi",
+    "Price": 579000,
+    "image": "prop-5"
+  },
+  {
+    "Id": 6,
+    "SellRent": 2,
+    "Type": "House",
+    "Name": "Ganesh Villa",
+    "Price": 79000
   }
 ]
